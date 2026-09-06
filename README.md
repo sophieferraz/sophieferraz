@@ -1,9 +1,9 @@
 <h1 align="center">Olá, eu sou a Sophie Ferraz 👋</h1>
 
-<h3 align="center">🚀 Iniciante em tecnologia, curiosa por natureza e apaixonada por aprender</h3>
+<h3 align="center">🎓 Estudante de Ciência da Computação (1º semestre) | Curiosa por natureza e apaixonada por aprender</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Explorando+o+mundo+da+programa%C3%A7%C3%A3o+%F0%9F%92%BB;Estudando+Front-end+%2B+Back-end+%F0%9F%94%A7;Sempre+aprendendo+algo+novo+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%F0%9F%8E%93;Explorando+o+mundo+da+programa%C3%A7%C3%A3o+%F0%9F%92%BB;Sempre+aprendendo+algo+novo+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,10 +16,12 @@
 
 ### 👩‍💻 Sobre mim
 
+- 🎓 Estudante de **Ciência da Computação**, cursando o **1º semestre**
 - 🌱 Estou dando meus primeiros passos no universo da programação e cada dia aprendo algo novo
 - 💡 Curiosa, dedicada e apaixonada por resolver problemas com tecnologia
 - 🛠️ Já explorei linguagens, bancos de dados e conceitos de programação orientada a objetos
 - ☁️ Também venho estudando fundamentos de nuvem (AWS) e sistemas operacionais
+- 🤝 Acredito que compartilhar conhecimento e evoluir junto com a comunidade faz toda a diferença
 - 🎯 Meu objetivo: crescer na área de tecnologia e construir projetos que façam a diferença
 
 ---
@@ -57,17 +59,6 @@
 </p>
 
 
-<!--
-**sophieferraz/sophieferraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <i>✨ "A jornada de mil linhas de código começa com um único commit." ✨</i>
+</p>
