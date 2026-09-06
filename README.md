@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou a Sophie Ferraz 👋</h1>
 
-<h3 align="center">🎓 Estudante de Ciência da Computação (1º semestre) | Curiosa por natureza e apaixonada por aprender</h3>
+<h3 align="center">🎓 Estudante de Ciência da Computação | Curiosa por natureza e apaixonada por aprender</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%F0%9F%8E%93;Explorando+o+mundo+da+programa%C3%A7%C3%A3o+%F0%9F%92%BB;Sempre+aprendendo+algo+novo+%F0%9F%93%9A" alt="Typing SVG" />
