@@ -41,23 +41,6 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
----
-
-### 📊 Minhas estatísticas no GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sophieferraz&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sophieferraz&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sophieferraz&theme=radical&hide_border=true" alt="streak stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sophieferraz&theme=redical&hide_border=true" alt="activity graph" />
-</p>
-
 
 <p align="center">
   <i>✨ "A jornada de mil linhas de código começa com um único commit." ✨</i>
