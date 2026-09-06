@@ -16,7 +16,7 @@
 
 ### 👩‍💻 Sobre mim
 
-- 🎓 Estudante de **Ciência da Computação**, cursando o **1º semestre**
+- 🎓 Estudante de **Ciência da Computação**, cursando o **2º semestre**
 - 🌱 Estou dando meus primeiros passos no universo da programação e cada dia aprendo algo novo
 - 💡 Curiosa, dedicada e apaixonada por resolver problemas com tecnologia
 - 🛠️ Já explorei linguagens, bancos de dados e conceitos de programação orientada a objetos
