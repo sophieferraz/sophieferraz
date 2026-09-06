@@ -41,7 +41,3 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-
-<p align="center">
-  <i>✨ "A jornada de mil linhas de código começa com um único commit." ✨</i>
-</p>
