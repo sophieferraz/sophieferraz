@@ -14,7 +14,7 @@
 
 ### 👩‍💻 Sobre mim
 
-- 🎓 Cursando o **2º semestre** de Ciência da Computação na **[sua faculdade]**
+- 🎓 Cursando o **2º semestre** de Ciência da Computação na **SP Tech**
 - 🛠️ Trabalhando com **POO**, **bancos de dados** e **desenvolvimento web**
 - ☁️ Estudando **fundamentos de AWS** e **sistemas operacionais**
 
@@ -22,8 +22,8 @@
 
 ### 🌱 Atualmente
 
-- 📖 Estudando: **[AWS, Java, React]**
-- 🔨 Construindo: **[FlowTech - Monitoramento de servidores dos pedágios Free Flow]**
+- 📖 Estudando: **AWS, Java, React**
+- 🔨 Construindo: **FlowTech - Monitoramento de servidores dos pedágios Free Flow**
   
 ---
 
